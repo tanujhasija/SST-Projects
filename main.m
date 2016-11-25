@@ -1,6 +1,6 @@
 
 
-clc; clear variables; close all;
+
 
 n1=6; n2= 6; n3=6; n4=6; n5=6; % Total no of signals in data sets
 m1=14;m2=18;m3=20; m4=22; m5=24;% Total no of sensors in data sets
